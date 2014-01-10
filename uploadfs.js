@@ -206,6 +206,7 @@ function Uploadfs() {
     // additional properties
     var context = {
       crop: options.crop,
+      fit: options.fit,
       sizes: imageSizes
     };
 
